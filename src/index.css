@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bright-sky-50: oklch(96.80% 0.019 217.23);
+  --color-bright-sky-100: oklch(93.72% 0.038 219.29);
+  --color-bright-sky-200: oklch(88.02% 0.075 218.81);
+  --color-bright-sky-300: oklch(82.61% 0.106 220.68);
+  --color-bright-sky-400: oklch(78.05% 0.129 222.86);
+  --color-bright-sky-500: oklch(73.97% 0.142 227.58);
+  --color-bright-sky-600: oklch(62.82% 0.119 226.93);
+  --color-bright-sky-700: oklch(50.89% 0.096 226.88);
+  --color-bright-sky-800: oklch(38.49% 0.071 225.36);
+  --color-bright-sky-900: oklch(24.66% 0.043 223.97);
+  --color-bright-sky-950: oklch(20.29% 0.035 222.50);
+}
